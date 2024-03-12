@@ -1,0 +1,23 @@
+.conteiner {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+    align-items: center;
+}
+
+.contects {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.contects span {
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.contects h3 {
+    font-size: 25px;
+    font-weight: 700;
+}
